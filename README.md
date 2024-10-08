@@ -1,4 +1,4 @@
-<h1 align="center">Megumin Bot - MD 💥</h1>
+<h1 align="center">BROLYBOT-MD 🐉</h1>
  <p align="center">💣 WhatsApp Bot Node-Js.</p>
 </p>
 
