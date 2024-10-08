@@ -218,7 +218,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 [![Skidy89](https://github.com/Skidy89.png?size=100)](https://github.com/Skidy89) 
 [![AzamiJs](https://github.com/Tokio50.png?size=100)](https://github.com/Tokio50)  
-[![KatashiFukushima](https://github.com/Tokio50.png?size=100)](https://github.com/Tokio50)
+[![Tokio50](https://github.com/Tokio50.png?size=100)](https://github.com/Tokio50)
 
 ### **`👑 PROPIETARIO`**
 <a
