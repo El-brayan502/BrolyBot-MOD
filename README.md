@@ -213,10 +213,13 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ---
 
-### **`🌴 COLABORADORES`**
-<a href="https://github.com/Eliasar54/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=El-brayan502/BrolyBot-MODS" /> 
-</a>
+## `👑 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙴𝚂 👑`
+
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![Skidy89](https://github.com/Skidy89.png?size=100)](https://github.com/Skidy89) 
+[![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs)  
+[![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima)
+[![sensei-ofc](https://github.com/sensei-ofc.png?size=100)](https://github.com/sensei-ofc)
 
 ### **`👑 PROPIETARIO`**
 <a
