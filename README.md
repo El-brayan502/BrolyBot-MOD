@@ -175,7 +175,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-Bot-MD && npm install && npm update && node .
+git clone https://github.com/El-brayan502/BrolyBot-MOD && cd BrolyBot-MOD && npm install && npm update && node .
 ```
 
 </details>
