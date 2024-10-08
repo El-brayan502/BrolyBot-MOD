@@ -14,7 +14,7 @@ apt-get update -y && apt-get upgrade -y
 
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-MD && yarn install && npm install 
+git clone https://github.com/El-brayan502/BrolyBot-MOD && cd Megumin-MD && yarn install && npm install 
 
 ls
 
