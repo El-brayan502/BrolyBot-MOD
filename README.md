@@ -23,7 +23,7 @@
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* themeguminbot@gmail.com
+* brayanphonkponk@gmail.com
 * https://wa.me/5493876432076
 * https://wa.me/50231458537
 
@@ -45,7 +45,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/David-Chian/Megumin-Bot-MD/master/megu.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/El-brayan502/BrolyBot-MOD/master/megu.sh | bash
 ```
 
 #### **🌺 Instalación manual por termux**
@@ -86,7 +86,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Megumin-Bot-MD
+    cd BrolyBot-MOD
     ```
 
 2. Inicia el bot nuevamente:
