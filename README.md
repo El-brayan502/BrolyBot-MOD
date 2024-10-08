@@ -223,7 +223,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ### **`🌴 COLABORADORES`**
 <a href="https://github.com/Eliasar54/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
+<img src="https://contrib.rocks/image?repo=El-brayan502/BrolyBot-MODS" /> 
 </a>
 
 ### **`👑 PROPIETARIO`**
