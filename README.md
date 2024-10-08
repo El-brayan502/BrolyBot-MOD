@@ -25,7 +25,7 @@
 
 * themeguminbot@gmail.com
 * https://wa.me/5493876432076
-* https://wa.me/5351524614
+* https://wa.me/50231458537
 
 </details>
 
@@ -63,7 +63,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-Bot-MD 
+git clone https://github.com/El-brayan502/BrolyBot-MOD && cd BrolyBot-MOD 
 ```
 
 ```bash
@@ -102,12 +102,12 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Megumin-Bot-MD
+    cd BrolyBot-MOD
     ```
 
 2. Elimina la carpeta MiniSession:
     ```bash
-    rm -rf MeguminSession
+    rm -rf BrolySession
     ```
 
 3. Inicia el bot nuevamente:
@@ -140,11 +140,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 [`💥 Instalar Cloud Shell Clic Aqui`](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 ```bash
-> git clone https://github.com/David-Chian/Megumin-Bot-MD
+> git clone https://github.com/El-brayan502/BrolyBot-MOD
 ```
 
 ```bash
-> cd Megumin-Bot-MD && yarn install
+> cd BrolyBot-MOD && yarn install
 ```
 
 ```bash
