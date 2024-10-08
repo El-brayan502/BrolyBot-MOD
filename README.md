@@ -215,7 +215,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ## `👑 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙴𝚂 👑`
 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![GataNina-Li](https://github.com/Tokio50.png?size=100)](https://github.com/GataNina-Li) 
 [![Diomar-s](https://github.com/Diomar-s.png?size=100)](https://github.com/Diomar-s) 
 
 ### **`👑 PROPIETARIO`**
