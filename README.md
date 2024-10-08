@@ -2,7 +2,7 @@
  <p align="center">💣 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio; Broly+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+El-brayan502;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio; Broly+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+El+brayan502;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
 ![Megumin](https://qu.ax/VdyQE.jpg)
 
 ---
@@ -10,7 +10,7 @@
 ### **`❕️ Información importante`**
 
 <details>
- <summary><b> 🌹 Info Bot</b></summary>
+ <summary><b> 🐉 Info Bot</b></summary>
 
 * Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 
@@ -31,12 +31,12 @@
 
 ---
 
-#### **`🚀 Instalación por termux`**
+#### **`🐉 Instalación por termux`**
 
 <details>
- <summary><b> 🌸 Comandos</b></summary>
+ <summary><b> 💬 Comandos</b></summary>
 
-#### **✨️ Instalación automatica por termux**
+#### **🐉 Instalación automatica por termux**
 
 > Copia los códigos uno por uno, no los pegues todos juntos a la vez.
 
