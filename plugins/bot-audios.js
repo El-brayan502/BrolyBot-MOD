@@ -30,5 +30,6 @@ let audioMsg = {
 'Calla Fan de bts': 'https://qu.ax/oqNf.mp3',
     'hola': 'https://qu.ax/oqNf.mp3',
 'Xd': 'https://qu.ax/oqNf.mp3',
+'Mmm': 'https://qu.ax/YsLt.mp3',
   '@5491168352204|@50231458537': 'https://l.top4top.io/m_2492i4mdu1.mp3'
 }
