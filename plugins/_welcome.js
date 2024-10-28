@@ -25,7 +25,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
         mentionedJid: getMentionedJid(),
         "externalAdReply": {
           "thumbnail": welc,
-          "title": "  ͟͞ Ｗ Ｅ Ｌ Ｃ Ｏ Ｍ Ｅ ͟͞  ",
+          "title": "  ͟͞ 𝑩𝑰𝑬𝑵𝑽𝑬𝑵𝑰𝑫𝑶 ͟͞  ",
           "body": `${userName}!`,
           "previewType": "PHOTO",
           "thumbnailUrl": null,
@@ -46,7 +46,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
         mentionedJid: getMentionedJid(),
         "externalAdReply": {
         "thumbnail": adi,
-        "title": '  ͟͞ Ａ Ｄ Ｉ Ｏ Ｓ ͟͞  ',
+        "title": '  ͟͞ 𝑼𝑵 𝑷𝑼𝑻𝑶 𝑴𝑬𝑵𝑶𝑺 ͟͞  ',
         "body": `${userName}, se despide.`,
         "previewType": "PHOTO",
           "showAdAttribution": true,
