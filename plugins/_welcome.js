@@ -4,8 +4,8 @@ import fetch from 'node-fetch';
 export async function before(m, { conn, participants, groupMetadata }) {
   if (!m.messageStubType || !m.isGroup) return true;
 
-  let vn = 'https://qu.ax/iOky.mp3';
-  let vn2 = 'https://qu.ax/xynz.mp3';
+  let vn = 'https://qu.ax/cUYg.mp3';
+  let vn2 = 'https://qu.ax/iOky.mp3';
   let welc = welcome;
   let adi = adios;
   let chat = global.db.data.chats[m.chat];
