@@ -1,5 +1,5 @@
 <h1 align="center">BROLYBOT-MD 🐉</h1>
- <p align="center">💣 WhatsApp Bot Node-Js.</p>
+ <p align="center">BROLY BOT CREADOR POR DIEGO Y BRAYAN.</p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Broly+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+El+brayan502;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
