@@ -180,7 +180,7 @@ const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegr
   const gif = await response.buffer()
  // const img = imagen1
 
-await conn.reply(m.chat, '✨ 𝙀𝙋𝙀𝙍𝘼 𝙐𝙉 𝙈𝙊𝙈𝙀𝙉𝙏𝙊\n𝘕𝘖 𝘏𝘈𝘎𝘈𝘚 𝘚𝘗𝘈𝘔 𝘋𝘌 𝘊𝘖𝘔𝘈𝘕𝘋𝘖𝘚', m, { contextInfo:{ forwardingScore: 2024, isForwarded: true, externalAdReply: {title: namechannel, body: dev, sourceUrl: channel, thumbnail: icons }}})
+await conn.reply(m.chat, '🐉 𝙀𝙋𝙀𝙍𝘼 𝙐𝙉 𝙈𝙊𝙈𝙀𝙉𝙏𝙊\n𝘕𝘖 𝘏𝘈𝘎𝘈𝘚 𝘚𝘗𝘈𝘔 𝘋𝘌 𝘊𝘖𝘔𝘈𝘕𝘋𝘖𝘚', m, { contextInfo:{ forwardingScore: 2024, isForwarded: true, externalAdReply: {title: namechannel, body: dev, sourceUrl: channel, thumbnail: icons }}})
 
 // await conn.reply(m.chat, '🐲 Enviando el menú.....', m, rcanal)
 
