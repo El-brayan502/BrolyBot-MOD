@@ -190,5 +190,3 @@ href="https://github.com/El-brayan502"><img src="https://github.com/El-brayan502
 ### **`🌹 CREDITOS`**
 <a
 href="https://github.com/Eliasar54"><img src="https://github.com/Eliasar54.png" width="130" height="130" alt="BrunoSobrino"/></a>
-
-[© https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W)
