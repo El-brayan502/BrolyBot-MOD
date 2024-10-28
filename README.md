@@ -33,8 +33,7 @@
 
 #### **`🐉 Instalación por termux`**
 
-<details>
- <summary><b> 💬 Comandos</b></summary>
+
 
 #### **🐉 Instalación automatica por termux**
 
