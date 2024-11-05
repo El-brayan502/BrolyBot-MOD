@@ -5,18 +5,18 @@ let staff = `🐲 *EQUIPO DE AYUDANTES*
 
 👑 *Propietario:*
 
-• Diamond
+• SHADOW
 🏆 *Rol:* Propietario
 🐉 *Número:* wa.me/50231458537
 🐲 *GitHub:* https://github.com/El-brayan502 
 
 🌸  *Colaboradores:*
 
-• Miguelon
+• DIEGO SABROSO
 🍟 *Rol:* Developer
 🚩 *Número:* Wa.me/528711426787
 
-• Steven
+• EMILY
 🍟 *Rol:* Contribuidor
 🚩 *Número:* Wa.me/593984964830
 
