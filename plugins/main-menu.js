@@ -215,7 +215,7 @@ await conn.sendMessage(
 }
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = ['ayuda', 'help', 'menuall', 'allmenú', 'allmenu', 'menucompleto'] 
+handler.command = ['menu', 'menú', 'menuall', 'allmenú', 'allmenu', 'menucompleto'] 
 handler.register = true
 
 export default handler
