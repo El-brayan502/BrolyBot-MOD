@@ -52,7 +52,7 @@ let d5 = 'application/vnd.android.package-archive'
 let d6 = 'application/zip'
 let td = `${pickRandom([d1,d2,d3,d4,d5,d6])}`
 let fkontak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `status@broadcast` } : {}) }, message: { 'contactMessage': { 'displayName': wm, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabell:Ponsel\nEND:VCARD`, 'jpegThumbnail': fs.readFileSync('./Menu.jpg'), thumbnail: fs.readFileSync('./Menu.jpg'),sendEphemeral: true}}}
-   let txt = '╭─╮︹︹⊹︹︹⊹︹︹⊹︹︹╭─╮\n    ⚘݄𖠵⃕⁖𖥔͢Menu ꪶ͢𝑩𝒐𝒕⋆᭄͙̈\n╚▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬▭╝'
+   let txt = '𝙀𝙉𝙑𝙄𝘼𝙉𝘿𝙊 𝙀𝙇 𝙈𝙀𝙉𝙐 𝙇𝙄𝙎𝙏𝘼📲'
     let interactiveMessage = {
         header: { title: '> 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐 𝒂𝒍 𝑴𝑬𝑵𝑼-𝑳𝑰𝑺𝑻𝑨                                      ⏤͟͞ू⃪ ፝͜⁞ɮʀօʟʏɮօȶ⃜✰⃔࿐' },
         hasMediaAttachment: true,
