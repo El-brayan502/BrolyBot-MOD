@@ -14,11 +14,11 @@ let staff = `🐲 *EQUIPO DE AYUDANTES*
 
 • DIEGO SABROSO
 🍟 *Rol:* Developer
-🚩 *Número:* Wa.me/528711426787
+🚩 *Número:* Wa.me/50248019799
 
 • EMILY
 🍟 *Rol:* Contribuidor
-🚩 *Número:* Wa.me/593984964830
+🚩 *Número:* Wa.me/59168182482
 `
 await conn.sendFile(m.chat, icons, 'yaemori.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
