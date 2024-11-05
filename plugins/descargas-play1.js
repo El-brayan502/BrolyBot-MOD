@@ -1,27 +1,40 @@
-case 'play': {
-const yts = require("youtube-yts");
-if (!text) return m.reply(`*🚩 Ejemplo:*\n${prefix + command} ozuna`) 
-m.reply(`🚀 Calma negro ya voy con tu perdidos`) 
-m.react("⌛"); //Si no tiene definidos la reacción pon un //m.react("⌛") 
-const videoSearch = await yts(text);
-if (!videoSearch.all.length) {
-return m.react("❌");
-}
-const vid = videoSearch.all[0];
-const videoUrl = vid.url;
-const apiUrl = `https://deliriussapi-oficial.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`;
-const apiResponse = await fetch(apiUrl);
-const delius = await apiResponse.json();
+import yts from 'yt-search';
 
-if (!delius.status) {
-return m.react("❌")}
-const downloadUrl = delius.data.download.url;
+let handler = async (m, { conn, command, args, text, usedPrefix }) => {
+    if (!text) {
+        return conn.reply(m.chat, '*Que quieres que busque 𝑩𝒓𝒐𝒍𝒚𝑩𝒐𝒕-𝑴𝑫*', m);
+    }
 
-//Descarga audios
-await conn.sendMessage(m.chat, { audio: { url: downloadUrl }, mimetype: 'audio/mpeg' }, { quoted: m });
+    await m.react('⏳');
+    let res = await yts(text);
+    let play = res.videos[0];
 
-//Para descargar video usar :
-conn.sendMessage(m.chat, { video: { url: downloadUrl }, caption: `↻ ◁ II ▷ ↺`}, {quoted: m})
+    if (!play) {
+        throw `Error: Vídeo no encontrado`;
+    }
 
-m.react("✅")}
-break
+    let { title, thumbnail, ago, timestamp, views, videoId, url } = play;
+
+    let txt = '```𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙳𝚎𝚜𝚌𝚊𝚛𝚐𝚊𝚜```\n';
+    txt += '╭━─━─━─━─≪✠≫─━─━─━─━╮\n';
+    txt += `> *𝚃𝚒𝚝𝚞𝚕𝚘* : _${title}_\n`;
+    txt += `> *𝙲𝚛𝚎𝚊𝚍𝚘* : _${ago}_\n`;
+    txt += `> *𝙳𝚞𝚛𝚊𝚌𝚒𝚘𝚗* : _${timestamp}_\n`;
+    txt += `> *𝚅𝚒𝚜𝚒𝚝𝚊𝚜* : _${views.toLocaleString()}_\n`;
+    txt += `> *𝙻𝚒𝚗𝚔* : _https://www.youtube.com/watch?v=${videoId}_\n`;
+    txt += '┗─══──━══─| ✠ |─══━─═──┛ \n';
+    txt += '𝑩𝒓𝒐𝒍𝒚𝑩𝒐𝒕-𝑴𝑫';
+
+    await conn.sendButton2(m.chat, txt, '. ', thumbnail, [
+        ['MP3', `${usedPrefix}ytmp3 ${url}`],
+        ['MENU BROLY', `${usedPrefix}menu ${url}`],
+        ], null, [['Canal', 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W']], m);
+
+    await m.react('✅');
+};
+
+handler.help = ['play'];
+handler.tags = ['downloader'] 
+handler.command = ['play',];
+
+export default handler;
