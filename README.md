@@ -3,7 +3,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Broly+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+El+brayan502;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
-![Megumin](https://qu.ax/VdyQE.jpg)
+![Megumin](https://qu.ax/QMtvS.jpg)
 
 ---
 
