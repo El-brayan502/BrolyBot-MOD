@@ -93,9 +93,9 @@ description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ᴇʟ-ʙʀᴀʏᴀ�
 id: `${prefijo}owner`
 },
 {
-title: "│🔥│ɢʀᴜᴘᴏs ᴏғᴄ ᴅᴇʟ ʙᴏᴛ", 
+title: "│🔥│ ᴍᴇɴᴜ ᴄᴏᴘʟᴇᴛᴏ", 
 description: "ᴏʙᴛᴇɴ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ʟᴏs ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ʙʀᴏʟʏʙᴏᴛ-ᴍᴅ",
-id: `${prefijo}grupos`
+id: `${prefijo}allmenu`
 },
 {
 title: "│❤️‍🔥│ᴇsᴛᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ", 
