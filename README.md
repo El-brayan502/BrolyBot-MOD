@@ -9,8 +9,6 @@
 
 ---
 
-#### **`🐉 Instalación por termux`**
-
 
 
 #### **🐉 Instalación automatica por termux**
