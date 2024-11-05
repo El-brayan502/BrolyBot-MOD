@@ -34,7 +34,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //creador y otros
 global.creador = 'Wa.me/50231458537'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5351524614'
+global.asistencia = 'Wa.me/50231458537'
 global.namechannel = '𝑩𝑹𝑶𝑳𝒀𝑩𝑶𝑻-𝑴𝑫-𝑪𝑯𝑨𝑵𝑬𝑳'
 global.namechannel2 = '𝑫𝑶𝑹𝑹𝑶𝑻𝑶 - 𝗧𝗲𝗮𝗺'
 global.namegrupo = '𝘽𝙧𝙤𝙡𝙮𝘽𝙤𝙩-𝙈𝘿'
@@ -42,14 +42,14 @@ global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝘽𝙧𝙤𝙡𝙮𝘽
 global.namecomu2 = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝘿𝙤𝙧𝙧𝙤𝙩𝙤'
 global.colab1 = 'Brayan'
 global.colab2 = 'Emily'
-global.colab3 = 'Eliasar'
+global.colab3 = 'DIEGO'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Ai Yaemori
+//Emojis determinado de BrolyBot-MD 
 global.emoji = '🔥'
 global.emoji2 = '💥'
 global.emoji3 = '❤️‍🔥'
