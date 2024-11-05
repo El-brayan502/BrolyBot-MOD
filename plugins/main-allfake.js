@@ -65,9 +65,9 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 //Enlaces
 var grupo = 'https://chat.whatsapp.com/LQalZQmmYuqAdvsxyHUjno'
 var canal = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'  
-var git = 'https://github.com/David-Chian' 
+var git = 'https://github.com/El-brayan502' 
 var youtube = 'https://youtube.com/@davidchian4957' 
-var github = 'https://github.com/David-Chian/Megumin-Bot-MD' 
+var github = 'https://github.com/El-brayan502/BrolyBot-MOD' 
 let correo = 'noisebot40@gmail.com'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
