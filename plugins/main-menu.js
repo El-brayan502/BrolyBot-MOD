@@ -175,7 +175,7 @@ const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegr
   const gif = await response.buffer()
  // const img = imagen1
 
-await conn.reply(m.chat, '🐉 𝗘𝗡𝗩𝗜𝗔𝗡𝗗𝗢 𝗘𝗟 𝗠𝗘𝗡𝗨\n > 𝘕𝘖 𝘏𝘈𝘎𝘈𝘚 𝘚𝘗𝘈𝘔 𝘋𝘌 𝘊𝘖𝘔𝘈𝘕𝘋𝘖𝘚\n > 𝘚𝘐 𝘛𝘐𝘌𝘕𝘌 𝘜𝘕 𝘌𝘙𝘙𝘖𝘙 𝘊𝘖𝘕 𝘓𝘖𝘚 𝘊𝘖𝘔𝘈𝘕𝘋𝘖𝘚 𝘏𝘈𝘉𝘓𝘌 𝘊𝘖𝘕 𝘔𝘐 𝘊𝘙𝘌𝘈𝘋𝘖𝘙 𝘗𝘖𝘕𝘎𝘈 .𝘰𝘸𝘯𝘦𝘳۪', m, { contextInfo:{ forwardingScore: 2024, isForwarded: true, externalAdReply: {title: namechannel, body: dev, sourceUrl: channel, thumbnail: icons }}})
+await conn.reply(m.chat, '🐉 𝗘𝗡𝗩𝗜𝗔𝗡𝗗𝗢 𝗘𝗟 𝗠𝗘𝗡𝗨\n  > 𝘕𝘖 𝘏𝘈𝘎𝘈𝘚 𝘚𝘗𝘈𝘔 𝘋𝘌 𝘊𝘖𝘔𝘈𝘕𝘋𝘖𝘚\n > 𝘚𝘐 𝘛𝘐𝘌𝘕𝘌 𝘜𝘕 𝘌𝘙𝘙𝘖𝘙 𝘊𝘖𝘕 𝘓𝘖𝘚 𝘊𝘖𝘔𝘈𝘕𝘋𝘖𝘚 𝘏𝘈𝘉𝘓𝘌 𝘊𝘖𝘕 𝘔𝘐 𝘊𝘙𝘌𝘈𝘋𝘖𝘙 𝘗𝘖𝘕𝘎𝘈 .𝘰𝘸𝘯𝘦𝘳۪', m, { contextInfo:{ forwardingScore: 2024, isForwarded: true, externalAdReply: {title: namechannel, body: dev, sourceUrl: channel, thumbnail: icons }}})
 
 // await conn.reply(m.chat, '🐲 Enviando el menú.....', m, rcanal)
 
