@@ -19,10 +19,6 @@ let staff = `🐲 *EQUIPO DE AYUDANTES*
 • EMILY
 🍟 *Rol:* Contribuidor
 🚩 *Número:* Wa.me/593984964830
-
-• Dino
-🍟 *Rol:* Editor
-🚩 *Número:* Wa.me/527774603921
 `
 await conn.sendFile(m.chat, icons, 'yaemori.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
