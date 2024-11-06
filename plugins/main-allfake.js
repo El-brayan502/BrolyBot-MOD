@@ -35,7 +35,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 global.creador = 'Wa.me/50231458537'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/50231458537'
-global.namechannel = '𝑩𝑹𝑶𝑳𝒀𝑩𝑶𝑻-𝑴𝑫-𝑪𝑯𝑨𝑵𝑬𝑳'
+global.namechannel = '🐉𝙱𝚁𝙾𝙻𝚈 𝙱𝙾𝚃 - 𝙼𝙳🐉'
 global.namechannel2 = '𝑫𝑶𝑹𝑹𝑶𝑻𝑶 - 𝗧𝗲𝗮𝗺'
 global.namegrupo = '𝘽𝙧𝙤𝙡𝙮𝘽𝙤𝙩-𝙈𝘿'
 global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝘽𝙧𝙤𝙡𝙮𝘽𝙤𝙩-𝙈𝘿'
@@ -97,7 +97,7 @@ global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363312092804854@newsletter', newsletterName: "𝑩𝑹𝑶𝑳𝒀𝑩𝑶𝑻-𝑴𝑫-𝑪𝑯𝑨𝑵𝑬𝑳", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363312092804854@newsletter', newsletterName: "🐉𝙱𝚁𝙾𝙻𝚈 𝙱𝙾𝚃 - 𝙼𝙳🐉", serverMessageId: -1 }
 }}, { quoted: m }
 
 global.icono = [ 
